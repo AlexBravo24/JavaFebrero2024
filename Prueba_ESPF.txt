@@ -1,0 +1,175 @@
+Erick Salvador Pastelin Flores
+-------------------------//COMANDOS DE GIT//-----
+Lenovo@LAPTOP-KRVA7GN8 MINGW64 ~/OneDrive/Escritorio/Git
+$ git clone https://github.com/AlexBravo24/JavaFebrero2024.git
+Cloning into 'JavaFebrero2024'...
+remote: Enumerating objects: 4, done.
+remote: Counting objects: 100% (4/4), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (4/4), done.
+
+Lenovo@LAPTOP-KRVA7GN8 MINGW64 ~/OneDrive/Escritorio/Git
+$ cd
+
+Lenovo@LAPTOP-KRVA7GN8 MINGW64 ~
+$ dir
+3D\ Objects
+ActivePerl-5.28
+AndroidStudioProjects
+AppData
+Application\ Data
+Aprenndido\ Java.hhp
+Cisco\ Packet\ Tracer\ 7.3.1
+Cisco\ Packet\ Tracer\ 8.0.1
+CmapToolsLogs
+Configuración\ local
+Contacts
+Cookies
+Datos\ de\ programa
+Desktop
+Documents
+Downloads
+Entorno\ de\ red
+Favorites
+Games
+Impresoras
+InstallAnywhere
+IntelGraphicsProfiles
+Links
+Menú\ Inicio
+MicrosoftEdgeBackups
+Mis\ documentos
+Music
+NTUSER.DAT
+NTUSER.DAT{fadcb43e-1f7b-11eb-ae25-fbb5f3de0d8c}.TM.blf
+NTUSER.DAT{fadcb43e-1f7b-11eb-ae25-fbb5f3de0d8c}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{fadcb43e-1f7b-11eb-ae25-fbb5f3de0d8c}.TMContainer00000000000000000002.regtrans-ms
+OneDrive
+OneDrive\ -\ Tecnologico\ Nacional\ de\ México\ Instituto\ Tecnológico\ de\ Tehuacán
+Plantillas
+Reciente
+Saved\ Games
+Searches
+SendTo
+Source
+Sti_Trace.log
+Tracing
+Videos
+ansel
+hsperfdata_Lenovo
+javame-sdk
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+package-lock.json
+
+Lenovo@LAPTOP-KRVA7GN8 MINGW64 ~
+$ dir
+3D\ Objects
+ActivePerl-5.28
+AndroidStudioProjects
+AppData
+Application\ Data
+Aprenndido\ Java.hhp
+Cisco\ Packet\ Tracer\ 7.3.1
+Cisco\ Packet\ Tracer\ 8.0.1
+CmapToolsLogs
+Configuración\ local
+Contacts
+Cookies
+Datos\ de\ programa
+Desktop
+Documents
+Downloads
+Entorno\ de\ red
+Favorites
+Games
+Impresoras
+InstallAnywhere
+IntelGraphicsProfiles
+Links
+Menú\ Inicio
+MicrosoftEdgeBackups
+Mis\ documentos
+Music
+NTUSER.DAT
+NTUSER.DAT{fadcb43e-1f7b-11eb-ae25-fbb5f3de0d8c}.TM.blf
+NTUSER.DAT{fadcb43e-1f7b-11eb-ae25-fbb5f3de0d8c}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{fadcb43e-1f7b-11eb-ae25-fbb5f3de0d8c}.TMContainer00000000000000000002.regtrans-ms
+OneDrive
+OneDrive\ -\ Tecnologico\ Nacional\ de\ México\ Instituto\ Tecnológico\ de\ Tehuacán
+Plantillas
+Reciente
+Saved\ Games
+Searches
+SendTo
+Source
+Sti_Trace.log
+Tracing
+Videos
+ansel
+hsperfdata_Lenovo
+javame-sdk
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+package-lock.json
+
+Lenovo@LAPTOP-KRVA7GN8 MINGW64 ~
+$ javaFebrero2024
+bash: javaFebrero2024: command not found
+
+Lenovo@LAPTOP-KRVA7GN8 MINGW64 ~
+$ dir
+3D\ Objects
+ActivePerl-5.28
+AndroidStudioProjects
+AppData
+Application\ Data
+Aprenndido\ Java.hhp
+Cisco\ Packet\ Tracer\ 7.3.1
+Cisco\ Packet\ Tracer\ 8.0.1
+CmapToolsLogs
+Configuración\ local
+Contacts
+Cookies
+Datos\ de\ programa
+Desktop
+Documents
+Downloads
+Entorno\ de\ red
+Favorites
+Games
+Impresoras
+InstallAnywhere
+IntelGraphicsProfiles
+Links
+Menú\ Inicio
+MicrosoftEdgeBackups
+Mis\ documentos
+Music
+NTUSER.DAT
+NTUSER.DAT{fadcb43e-1f7b-11eb-ae25-fbb5f3de0d8c}.TM.blf
+NTUSER.DAT{fadcb43e-1f7b-11eb-ae25-fbb5f3de0d8c}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{fadcb43e-1f7b-11eb-ae25-fbb5f3de0d8c}.TMContainer00000000000000000002.regtrans-ms
+OneDrive
+OneDrive\ -\ Tecnologico\ Nacional\ de\ México\ Instituto\ Tecnológico\ de\ Tehuacán
+Plantillas
+Reciente
+Saved\ Games
+Searches
+SendTo
+Source
+Sti_Trace.log
+Tracing
+Videos
+ansel
+hsperfdata_Lenovo
+javame-sdk
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+package-lock.json
+
+Lenovo@LAPTOP-KRVA7GN8 MINGW64 ~
